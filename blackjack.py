@@ -68,8 +68,6 @@ while True:
             print("Both got a natural blackjack. Draw!")
         elif player_score == 21:
             print("Natural blackjack! You win!")
-        else:
-            print("Dealer has natural blackjack. You lose!")
         
     else:  # Normal game
         # Player's turn
